@@ -1,0 +1,12 @@
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.deps.json
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.dll
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.pdb
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.csproj.AssemblyReference.cache
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.AssemblyInfoInputs.cache
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.AssemblyInfo.cs
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.csproj.CoreCompileInputs.cache
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.dll
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\refint\Watchlist.Data.dll
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.pdb
+C:\Users\lukanova\OneDrive - Progress Software Corporation\Desktop\Exam_2\Watchlist\Watchlist.Data\obj\Debug\net6.0\ref\Watchlist.Data.dll

@@ -1,0 +1,30 @@
+version: '3.8'
+services:
+    sqlserver:
+      container_name: sqlserver
+      image: mcr.microsoft.com/mssql/server
+      environment:
+        - ACCEPT_EULA=Y
+        - MSSQL_SA_PASSWORD=myStrongPassword12#
+      ports:
+        - '1433:1433'
+      volumes:
+        - sqldata:/var/opt/mssql
+      deploy:
+        resources:
+          reservations:
+            cpus: '2'
+            memory: 2GB
+    webapp:
+      container_name: webapp
+      image: michaelalukanovamoviescr.azurecr.io/watchlist
+      ports:
+        - '80:80'
+      restart: on-failure
+      domainname: michaelalukanova
+volumes:
+  sqldata:
+    driver: azure_file
+    driver_opts:
+      share_name: sql-volume
+      storage_account_name: michaelalukanovamoviessa
